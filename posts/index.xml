@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Quiz2</title>
+    <link>https://FirstHugoWebsite/posts/</link>
+    <description>Recent content in Posts on Quiz2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Oct 2022 22:57:23 +0200</lastBuildDate><atom:link href="https://FirstHugoWebsite/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cliquez ici pour connaitre mon nom, mon numéro d&#39;étudiant, le nom du cours et le nom du professeur.</title>
+      <link>https://FirstHugoWebsite/posts/mypost/</link>
+      <pubDate>Tue, 04 Oct 2022 22:57:23 +0200</pubDate>
+      
+      <guid>https://FirstHugoWebsite/posts/mypost/</guid>
+      <description>Do Khoa, 2072765, Application Web 2, Patrick Pierre</description>
+    </item>
+    
+  </channel>
+</rss>
